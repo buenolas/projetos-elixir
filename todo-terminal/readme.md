@@ -55,7 +55,3 @@ Contribuições são bem-vindas! Por favor, faça um fork deste repositório e e
 ## Licença
 
 Este projeto é licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Sinta-se à vontade para personalizar este README de acordo com suas necessidades específicas.
