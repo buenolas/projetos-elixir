@@ -33,6 +33,9 @@ elixir Calculadora.exs
 
 4. Siga as instruções no console para escolher uma operação e inserir os números.
 
+![image](https://github.com/user-attachments/assets/1a4c565c-1bc3-4c31-88e8-8fe30f14cdfe)
+
+
 ## Contribuição
 
 Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
