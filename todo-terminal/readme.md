@@ -40,7 +40,7 @@ ToDoList é uma aplicação simples de linha de comando escrita em Elixir que pe
 
 ## Uso
 
-![image](https://github.com/user-attachments/assets/29c34307-51c4-49e7-ba01-e269a0c0c66a)
+![image](https://github.com/user-attachments/assets/8fb027cc-c602-45cc-b596-05fcdd2d0676)
 
 Ao executar a aplicação, siga as instruções para gerenciar sua lista de tarefas:
 - Selecione `1` para adicionar uma tarefa.
