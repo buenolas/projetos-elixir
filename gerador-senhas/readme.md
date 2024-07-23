@@ -35,17 +35,12 @@ Gerador de Senhas é uma aplicação simples de linha de comando escrita em Elix
 
 ## Uso
 
+![image](https://github.com/user-attachments/assets/26069f3c-6106-4d4b-9f3f-2fc076316179)
+
+
 Ao executar a aplicação, siga as instruções para gerar sua senha aleatória:
 - Digite o comprimento desejado da senha quando solicitado.
 - A senha gerada será exibida no terminal.
-
-## Exemplo de Uso
-
-```sh
-$ elixir gerador_senhas.exs
-Digite o comprimento da senha: 12
-Senha gerada: aB3!xY7*Lp4@
-```
 
 ## Contribuindo
 
