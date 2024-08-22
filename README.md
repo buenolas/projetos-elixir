@@ -1,67 +1,69 @@
-# Projetos Elixir
+---
 
-## Visão Geral
+# Elixir Projects
 
-Este repositório contém uma coleção de projetos simples desenvolvidos em Elixir para diferentes finalidades. Os projetos incluídos são:
+## Overview
 
-1. Calculadora de Console
-2. Conversor de Temperatura
-3. Gerador de Senhas
+This repository contains a collection of simple projects developed in Elixir for various purposes. The included projects are:
+
+1. Console Calculator
+2. Temperature Converter
+3. Password Generator
 4. ToDo List
 
-## Projetos
+## Projects
 
-### 1. Calculadora de Console
+### 1. Console Calculator
 
-Uma calculadora simples de linha de comando que permite realizar operações básicas como adição, subtração, multiplicação e divisão.
+A simple command-line calculator that allows you to perform basic operations such as addition, subtraction, multiplication, and division.
 
-#### Funcionalidades
+#### Features
 
-- **Adição**
-- **Subtração**
-- **Multiplicação**
-- **Divisão**
-- **Encerrar**
+- **Addition**
+- **Subtraction**
+- **Multiplication**
+- **Division**
+- **Exit**
 
-### 2. Conversor de Temperatura
+### 2. Temperature Converter
 
-Um conversor de temperatura de linha de comando que permite converter entre diferentes unidades de temperatura.
+A command-line temperature converter that allows you to convert between different temperature units.
 
-#### Funcionalidades
+#### Features
 
-- **Kelvin para Celsius**
-- **Kelvin para Fahrenheit**
-- **Celsius para Kelvin**
-- **Celsius para Fahrenheit**
-- **Fahrenheit para Celsius**
-- **Fahrenheit para Kelvin**
-- **Encerrar**
+- **Kelvin to Celsius**
+- **Kelvin to Fahrenheit**
+- **Celsius to Kelvin**
+- **Celsius to Fahrenheit**
+- **Fahrenheit to Celsius**
+- **Fahrenheit to Kelvin**
+- **Exit**
 
-### 3. Gerador de Senhas
+### 3. Password Generator
 
-Um gerador de senhas de linha de comando que cria senhas aleatórias com base no comprimento especificado pelo usuário.
+A command-line password generator that creates random passwords based on the length specified by the user.
 
-#### Funcionalidades
+#### Features
 
-- **Gerar Senha**: Gera uma senha aleatória com o comprimento especificado pelo usuário.
+- **Generate Password**: Generates a random password with the length specified by the user.
 
 ### 4. ToDo List
 
-Uma aplicação de lista de tarefas de linha de comando que permite adicionar, remover e listar tarefas.
+A command-line to-do list application that allows you to add, remove, and list tasks.
 
-#### Funcionalidades
+#### Features
 
-- **Adicionar Tarefa**: Permite adicionar uma nova tarefa à lista.
-- **Remover Tarefa**: Permite remover uma tarefa existente da lista.
-- **Listar Tarefas**: Exibe todas as tarefas na lista.
-- **Encerrar**: Encerra a aplicação.
+- **Add Task**: Allows you to add a new task to the list.
+- **Remove Task**: Allows you to remove an existing task from the list.
+- **List Tasks**: Displays all tasks in the list.
+- **Exit**: Closes the application.
 
-## Contribuindo
+## Contributing
 
-Contribuições são bem-vindas! Por favor, faça um fork deste repositório e envie um pull request para qualquer melhoria ou correção de bugs.
+Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
 
-## Licença
+## License
 
-Este projeto é licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
