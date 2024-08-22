@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains a collection of simple projects developed in Elixir for various purposes. The included projects are:
+This repository contains a collection of simple projects developed in Elixir for various purposes. The included projects are
 
 1. Console Calculator
 2. Temperature Converter
